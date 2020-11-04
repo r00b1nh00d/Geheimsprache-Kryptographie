@@ -95,32 +95,14 @@ basic.forever(function () {
 })
 ```
 
+## ~ @unplugged 
 
-> Diese Seite bei [https://r00b1nh00d.github.io/geheimsprache-kryptographie/](https://r00b1nh00d.github.io/geheimsprache-kryptographie/) öffnen
+Es ist geschafft dein @boardname@ sollte nun deine Nachrichten verschlüsseln bzw. erhaltene Nachrichten entschlüsseln können.
 
-## Als Erweiterung verwenden
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/r00b1nh00d/geheimsprache-kryptographie** suchen und importieren
-
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/r00b1nh00d/geheimsprache-kryptographie/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/r00b1nh00d/geheimsprache-kryptographie** ein und klicke auf Importieren
-
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/r00b1nh00d/geheimsprache-kryptographie/raw/master/.github/makecode/blocks.png)
+#### Dieses Tutorial verwenden
+Um dieses Tutorial zu verwenden muss der link [https://makecode.calliope.cc/beta/#tutorial:https://github.com/r00b1nh00d/Geheimsprache-Kryptographie] in das Adressfeld des Browsers kopiert werden.
 
 #### Metadaten (verwendet für Suche, Rendering)
 
